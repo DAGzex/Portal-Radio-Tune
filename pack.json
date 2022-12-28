@@ -1,0 +1,10 @@
+{
+  "name": "Portal Radio Tune",
+  "description": "Still Alive.",
+  "author": "DAG",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
